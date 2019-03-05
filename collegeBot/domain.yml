@@ -1,0 +1,24 @@
+
+intents:
+- greet
+- goodbye
+- mood_great
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_mood_great
+- utter_unclear
+
+templates:
+  utter_greet:
+    - text: "Hey! How are you?"
+
+  utter_mood_great:
+    - text: "Awesome"
+
+  utter_goodbye:
+    - text: "Bye.Take Care"
+
+  utter_unclear:
+    - text: "sorry, I didn't catch ur words"

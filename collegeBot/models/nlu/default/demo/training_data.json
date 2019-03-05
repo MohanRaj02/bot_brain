@@ -1,0 +1,153 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [
+          {
+            "start": 10, 
+            "end": 18, 
+            "value": "mohanraj", 
+            "entity": "PERSON"
+          }
+        ], 
+        "intent": "greet", 
+        "text": "hey, I am mohanraj"
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hai", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 18, 
+            "end": 28, 
+            "value": "Padmanaban", 
+            "entity": "PERSON"
+          }
+        ], 
+        "intent": "greet", 
+        "text": "hello there, I am Padmanaban"
+      }, 
+      {
+        "text": "good morning", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "good afternoon", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "good evening", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey dude", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "welcome", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "good bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "see u", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "see you", 
+        "intent": "goodbye"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 10, 
+            "end": 18, 
+            "value": "mohanraj", 
+            "entity": "PERSON"
+          }
+        ], 
+        "intent": "goodbye", 
+        "text": "bye, from mohanraj"
+      }, 
+      {
+        "text": "take care", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "catch u later", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "see you around", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "thank you", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "thanks", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "perfect", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "very good", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "great", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "amazing", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "feeling good", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "so good", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "super", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "I am going to save the world!!", 
+        "intent": "mood_great"
+      }, 
+      {
+        "text": "extremely good", 
+        "intent": "mood_great"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": [], 
+    "lookup_tables": []
+  }
+}
