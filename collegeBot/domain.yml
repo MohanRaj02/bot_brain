@@ -1,24 +1,37 @@
-
 intents:
-- greet
-- goodbye
-- mood_great
+  - greet
+  - goodbye
+  - mood_great
+  - fees
+
+slots:
+  fees_structure:
+    type: text
 
 actions:
-- utter_greet
-- utter_goodbye
-- utter_mood_great
-- utter_unclear
+  - utter_greet
+  - utter_mood_great
+  - utter_goodbye
+  - utter_unclear
+  - utter_ask_year
+  - actions_fees.Fees
+
+entities:
+  - fees_structure
 
 templates:
   utter_greet:
-    - text: "Hey! How are you?"
+    - "Hey! how can I help you?"
 
   utter_mood_great:
-    - text: "Awesome"
+    - "Awesome"
 
   utter_goodbye:
-    - text: "Bye.Take Care"
+    - "Talk to u Later."
+    - "Bye :("
 
   utter_unclear:
-    - text: "sorry, I didn't catch ur words"
+    - "what are you saying?"
+
+  utter_ask_year:
+    - text: "For which year you want?"

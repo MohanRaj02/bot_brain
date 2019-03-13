@@ -5,9 +5,7 @@ from __future__ import unicode_literals
 
 import logging
 from bot_brain.settings import agent as load_agent
-
 logger = logging.getLogger(__name__)
-
 
 def college_bot(message):
     print(type(message))

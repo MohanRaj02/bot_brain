@@ -1,3 +1,35 @@
+## Generated Story -6242995196361066436
+* greet
+    - utter_greet
+
+## Generated Story 277701598317193454
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story -2305062785995488940
+* goodbye
+    - utter_goodbye
+
+## Generated Story -6625492038768197644
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
 ## Generated Story 5855217155057749628
 * greet
     - utter_greet
@@ -6,76 +38,304 @@
 * goodbye
     - utter_goodbye
 
-## Generated Story 4222325030889900248
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+## Generated Story 5721176659735904852
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+
+## Generated Story -1627382050273919002
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
-
-## Generated Story 1910227413493980018
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -2305062785995488940
-* goodbye
-    - utter_goodbye
-
-## Generated Story -6242995196361066436
 * greet
     - utter_greet
 
-## Generated Story 6559258220858986914
+## Generated Story -2004545507883428240
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * greet
     - utter_greet
+
+## Generated Story 3514109582102387312
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+
+## Generated Story 2971291029581849964
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+
+## Generated Story 5445420610186945118
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 6816605243099592022
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story -2919104551956476746
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 3708234702746455692
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 5090783454941894930
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 3474687254236376212
+* greet
+    - utter_greet
+* goodbye
+    - utter_goodbye
+
+## Generated Story 254809682019889744
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story -3888431293789421156
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story 4389977704919429032
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* goodbye
+    - utter_goodbye
+
+## Generated Story -1627387358722195482
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* goodbye
+    - utter_goodbye
+
+## Generated Story 4251101434983666828
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -3214756090175826646
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -3814214112843391872
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -5008779035489194064
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 8149428987244804848
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -8408454199652961772
+* greet
+    - utter_greet
+* greet
+    - utter_greet
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
 
-## Generated Story 7510121964125904024
+## Generated Story 5653279276639216678
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * greet
     - utter_greet
@@ -87,16 +347,6 @@
 ## Generated Story -8569294654821004116
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -8408454199652961772
-* greet
-    - utter_greet
 * greet
     - utter_greet
 * mood_great
@@ -118,47 +368,61 @@
 * goodbye
     - utter_goodbye
 
-## Generated Story -5233348326978462988
+## Generated Story 8056117426631556460
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
+    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
 
-## Generated Story 2765956250977017122
+## Generated Story -5585964802991049910
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+
+## Generated Story 7435175795730082952
 * goodbye
     - utter_goodbye
-    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
+* greet
+    - utter_greet
 
-## Generated Story -7201849448059584804
+## Generated Story -6450219030014570332
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * mood_great
@@ -167,48 +431,72 @@
     - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+
+## Generated Story -3838537360179408576
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
 
-## Generated Story -3497380768291666764
+## Generated Story -7489916388054515136
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
+* greet
+    - utter_greet
 
-## Generated Story -7851656105775982764
+## Generated Story 4946952184694068758
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
+* greet
+    - utter_greet
 
-## Generated Story 7116247589997991678
+## Generated Story -2045422355102878476
 * greet
     - utter_greet
 * mood_great
@@ -217,269 +505,495 @@
     - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+
+## Generated Story 2691817947059812816
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+* greet
     - utter_greet
+
+## Generated Story 5126699953407658914
 * greet
     - utter_greet
 * mood_great
-* mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
+* greet
+    - utter_greet
 
-## Generated Story 3162022010782069110
+## Generated Story 8158175443042046286
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+
+## Generated Story -8940815891297295550
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
     - utter_greet
+
+## Generated Story 1156264528866476776
 * greet
     - utter_greet
 * mood_great
-* mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
+* greet
+    - utter_greet
+* greet
+    - utter_greet
 
-## Generated Story 3217602900291485660
+## Generated Story 8784154289435351152
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+
+## Generated Story 8940530015132438930
+* greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+
+## Generated Story -964957105283508422
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
+
+## Generated Story -1876848377258924136
 * greet
     - utter_greet
 * mood_great
-* mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
-
-## Generated Story 7437099350957204174
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+
+## Generated Story 7163456763293033120
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+* greet
     - utter_greet
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+
+## Generated Story 6387437188535197724
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
-
-## Generated Story -7797816572659609362
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+
+## Generated Story -5990489811683775270
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
     - utter_greet
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
 
-## Generated Story -3888431293789421156
-* goodbye
-    - utter_goodbye
+## Generated Story 666967472070264112
+* greet
+    - utter_greet
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
 
-## Generated Story -5859985654889433900
+## Generated Story 2307416915976808888
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * goodbye
     - utter_goodbye
-
-## Generated Story 254809682019889744
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 1354918529856284594
 * goodbye
     - utter_goodbye
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story 3474687254236376212
+## Generated Story 6106111632503052134
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
 * greet
     - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story 5754255289360000618
+## Generated Story -4073910212107523400
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+* greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 2372669976861104522
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
+
+## Generated Story -7338074069201481014
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story 3514109582102387312
+## Generated Story 7470107898526267720
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story -7084541415285873740
+## Generated Story -8544349902322910260
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story -1983168822569463246
+## Generated Story -8264862359481215118
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+* greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story -2745220179603974762
 * greet
     - utter_greet
-* mood_great
+* greet
+    - utter_greet
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story 2971291029581849964
+## Generated Story 900303330030015572
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
-
-## Generated Story 5721176659735904852
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
+    - export
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story 5418909011960724564
+## Generated Story 1143215903443965088
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
+    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 3219022706370615880
 * goodbye
     - utter_goodbye
-
-## Generated Story -6427350277706844362
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
-    - utter_greet
-* greet{"TIME": "morning"}
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story 647523462380644046
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
@@ -487,1743 +1001,186 @@
     - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 
-## Generated Story 5905470422282251600
+## Generated Story -3763103465678476216
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story -5519731155217089054
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-
-## Generated Story 574914480459590690
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
+    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+
+## Generated Story -5055937304956066862
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+* greet
     - utter_greet
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
+
+## Generated Story 4017055904074149610
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-
-## Generated Story 4092821694004172408
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story 907670706459920072
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story 3596605062800289720
-* greet
-    - utter_greet
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -905379358902173276
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -1412156938208215104
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -190176491922269152
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story 3270503776497441682
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -2590991752284995796
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -1352148920424215454
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story 2100985456718305862
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -4296849633568867608
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -7189998004828468062
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story 2745547239540978228
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story 6006821167293228312
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story 2245477578444308904
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -1835114554409464986
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-
-## Generated Story -2913974844934025818
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 6012538502947492732
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -7180986519365382020
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 2626688915307322164
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 3611048099967605614
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 2367745148544848362
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -526993009612221392
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -7527165782732958256
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -8012258318583847516
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -2374399077436346864
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -974803053197664720
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 2492256885002746384
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -7546917917865175190
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 6208448363517274390
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -4970437986617675848
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 1519108009398845916
-* greet
-    - utter_greet
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 5942651120361043472
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -9150374002500849610
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 1532041257678526364
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -6497346131927909854
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 7413560199248834356
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 683000110935684760
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 908874434014551990
-* greet
-    - utter_greet
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 7625700427038552382
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 4681405823982392122
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -6605664052759156958
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -8157110507442641834
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 2692198809939007700
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 6102767785727048418
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 4862011587647155074
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -2562680785684799784
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 6147536583278147450
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -7848766035938612874
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 3889155172729944882
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -2294841301101488354
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -374282673993542424
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story 4797408362162973516
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -3661434467332066726
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-
-## Generated Story -7789863477690616800
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 
-## Generated Story 7691675232365577414
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
+## Generated Story 5129519195186868494
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
 * greet
     - utter_greet
-* mood_great
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
-
-## Generated Story -6320708483313778972
 * greet
     - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
-* goodbye
-    - utter_goodbye
 
-## Generated Story 50494983374121028
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+## Generated Story -4756479702080417226
 * goodbye
     - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* goodbye
-    - utter_goodbye
-
-## Generated Story -6551625803912180140
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
-* goodbye
-    - utter_goodbye
 
-## Generated Story -5142197778577591990
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+## Generated Story -1235960710991237958
 * goodbye
     - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * goodbye
     - utter_goodbye
 
-## Generated Story 3147725530174574388
-* goodbye
-    - utter_goodbye
+## Generated Story -531868716350598128
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
 * goodbye
     - utter_goodbye
 
-## Generated Story 5924246881799745686
+## Generated Story 6489527629722610468
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story 1627534828658142850
-* greet
-    - utter_greet
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
-* goodbye
-    - utter_goodbye
-
-## Generated Story 212525103936953168
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
 * goodbye
     - utter_goodbye
 
@@ -2239,156 +1196,138 @@
 * goodbye
     - utter_goodbye
 
-## Generated Story 6234633994569242470
+## Generated Story -7928774271737776864
 * greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
     - utter_greet
 * greet
     - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
 * goodbye
     - utter_goodbye
-    - export
+
+## Generated Story -849448460595048206
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * goodbye
     - utter_goodbye
 
-## Generated Story -8863700193117778412
+## Generated Story -875017471592874110
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story -968534254473205264
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story -3636268470505383444
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
 * goodbye
     - utter_goodbye
 
-## Generated Story 7862843871405887132
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
+## Generated Story 212525103936953168
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
 * goodbye
     - utter_goodbye
 
-## Generated Story 1153401735277320856
+## Generated Story 7282816722121940830
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * goodbye
     - utter_goodbye
 
-## Generated Story -531868716350598128
+## Generated Story -2981428129732257686
 * greet
     - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
-* goodbye
-    - utter_goodbye
-
-## Generated Story 1664491982861729810
-* goodbye
-    - utter_goodbye
+    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * goodbye
     - utter_goodbye
 
-## Generated Story 8019688821472370986
+## Generated Story 4425167134765326552
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story 1713111228396638618
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
 * mood_great
     - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* goodbye
+    - utter_goodbye
+
+## Generated Story 2632811427917978280
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
@@ -2413,99 +1352,78 @@
 * goodbye
     - utter_goodbye
 
-## Generated Story -4025686448086794458
+## Generated Story -2106284220986058684
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
+    - export
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * goodbye
     - utter_goodbye
 
-## Generated Story -6450219030014570332
+## Generated Story -2959524902256051880
 * greet
     - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-
-## Generated Story 2691817947059812816
-* goodbye
-    - utter_goodbye
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-
-## Generated Story -7869072744657930764
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-
-## Generated Story -5539601899697350572
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-
-## Generated Story 7743684400887800834
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
 * goodbye
     - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story 3802844470629671984
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* goodbye
+    - utter_goodbye
+
+## Generated Story -2196072658682261442
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * greet
     - utter_greet
@@ -2513,272 +1431,223 @@
     - utter_mood_great
 * goodbye
     - utter_goodbye
-* greet
-    - utter_greet
+* goodbye
+    - utter_goodbye
 
-## Generated Story 5917838058990392366
+## Generated Story -744952186419660150
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story -968534254473205264
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+
+## Generated Story 7143780974121370582
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
 * mood_great
     - utter_mood_great
 * goodbye
     - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 1123528025451731514
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
-* mood_great
-    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
-* greet
-    - utter_greet
 
-## Generated Story 8784154289435351152
+## Generated Story -6065579970591842288
+* goodbye
+    - utter_goodbye
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* greet
-    - utter_greet
-
-## Generated Story 1871228647497458746
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
 
-## Generated Story -4468508538129471312
+## Generated Story -349582380651343646
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-
-## Generated Story 8869504446755554292
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-
-## Generated Story 1156264528866476776
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* greet
-    - utter_greet
-
-## Generated Story -2856980908574380780
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
     - export
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
-
-## Generated Story -7913031604324279062
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
+    - export
+
+## Generated Story -9032020488845898238
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * greet
     - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
 
-## Generated Story -5821594864591969878
+## Generated Story 5881541479362956776
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
 * greet
     - utter_greet
-
-## Generated Story 4198309413562712694
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
+
+## Generated Story -6800881284614855044
 * greet
     - utter_greet
-
-## Generated Story -3531489754304327372
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
 * goodbye
     - utter_goodbye
 * greet
     - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
-* greet
-    - utter_greet
 
-## Generated Story 666967472070264112
+## Generated Story -9081431169284486732
 * greet
     - utter_greet
-* goodbye
-    - utter_goodbye
-* greet
-    - utter_greet
-
-## Generated Story -6236144929945857764
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* greet
-    - utter_greet
-* greet{"TIME": "morning"}
-    - utter_greet
-* greet
-    - utter_greet
-* mood_great
-* mood_great
-    - utter_mood_great
-* goodbye
-    - utter_goodbye
-    - export
-* greet
-    - utter_greet
-
-## Generated Story 6377141572465744348
-* greet
-    - utter_greet
-* mood_great
-    - utter_mood_great
-* mood_great
-    - utter_mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
@@ -2790,21 +1659,243 @@
     - utter_goodbye
 * greet
     - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
 
-## Generated Story 2797733523565879174
+## Generated Story -2359470639736255136
+* greet
+    - utter_greet
 * greet
     - utter_greet
 * mood_great
     - utter_mood_great
+* goodbye
+    - utter_goodbye
 * greet
     - utter_greet
-* greet{"TIME": "morning"}
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -2243875674466953230
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 1385921364031235574
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 7466809819719771664
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -3266238865424553766
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
     - utter_greet
 * greet
     - utter_greet
-* mood_great
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 544300657167202560
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 1285901870947838762
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -1140262764679092288
+* greet
+    - utter_greet
 * mood_great
     - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -8061840011621936656
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
 * goodbye
     - utter_goodbye
     - export
@@ -2812,4 +1903,468 @@
     - utter_goodbye
 * greet
     - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 7007657542010589488
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -4824409058328736188
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -3917303855346478480
+* greet
+    - utter_greet
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story 5905470422282251600
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story -7503418913646329788
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 6469550258361066104
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 7992198428170488126
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 4092821694004172408
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 7381674797159011466
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 78688259221761764
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 7048693807752558554
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 9098662823430687250
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 8495256236311680994
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story -2590991752284995796
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story -278965163499729238
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story -1218369957707034316
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 7184698194761365280
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 3596605062800289720
+* greet
+    - utter_greet
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 3365541621576432502
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 7566140743675528160
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 6006821167293228312
+* goodbye
+    - utter_goodbye
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story -805943180934396254
+* greet
+    - utter_greet
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+    - export
+* greet
+    - utter_greet
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
+
+## Generated Story 483367883405452124
+* goodbye
+    - utter_goodbye
+* greet
+    - utter_greet
+* fees
+    - utter_ask_year
+* fees{"DATE": "first year", "fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - slot{"fees_structure": "first"}
+    - action_fees
+    - slot{"fees_structure": "first"}
+* goodbye
+    - utter_goodbye
+    - export
+* greet
+    - utter_greet
+* mood_great
+    - utter_mood_great
+* goodbye
+    - utter_goodbye
 
