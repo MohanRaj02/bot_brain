@@ -34,3 +34,14 @@
 - super
 - I am going to save the world!!
 - extremely good
+
+## intent:fees
+- what is my college fees?
+- what is my tution fees?
+- can you please tell My college fees?
+- My tution fees
+- [first](fees_structure) year
+- [second](fees_structure) year
+- [third](fees_structure) year
+- [fourth](fees_structure) year
+- can you tell my semester fees
