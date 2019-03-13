@@ -3,23 +3,30 @@
     "utter_goodbye": {
       "slots": []
     }, 
+    "action_fees": {
+      "slots": [
+        "fees_structure"
+      ]
+    }, 
     "action_listen": {
-      "slots": []
+      "slots": [
+        "fees_structure"
+      ]
     }, 
     "utter_greet": {
       "slots": []
     }
   }, 
   "policy_names": [
-    "rasa_core.policies.fallback.FallbackPolicy", 
     "rasa_core.policies.memoization.MemoizationPolicy", 
-    "rasa_core.policies.keras_policy.KerasPolicy"
+    "rasa_core.policies.keras_policy.KerasPolicy", 
+    "rasa_core.policies.fallback.FallbackPolicy"
   ], 
   "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble", 
   "max_histories": [
-    null, 
     5, 
-    5
+    5, 
+    null
   ], 
   "rasa_core": "0.9.0"
 }

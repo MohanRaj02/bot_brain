@@ -1,5 +1,5 @@
 {
-    "trained_at": "20190306-012815", 
+    "trained_at": "20190312-215733", 
     "pipeline": [
         {
             "class": "rasa_nlu.utils.spacy_utils.SpacyNLP", 
@@ -10,6 +10,43 @@
         {
             "name": "tokenizer_spacy", 
             "class": "rasa_nlu.tokenizers.spacy_tokenizer.SpacyTokenizer"
+        }, 
+        {
+            "BILOU_flag": true, 
+            "L2_c": 0.001, 
+            "features": [
+                [
+                    "low", 
+                    "title", 
+                    "upper", 
+                    "pos", 
+                    "pos2"
+                ], 
+                [
+                    "bias", 
+                    "low", 
+                    "word3", 
+                    "word2", 
+                    "upper", 
+                    "title", 
+                    "digit", 
+                    "pos", 
+                    "pos2", 
+                    "pattern"
+                ], 
+                [
+                    "low", 
+                    "title", 
+                    "upper", 
+                    "pos", 
+                    "pos2"
+                ]
+            ], 
+            "name": "ner_crf", 
+            "L1_c": 1, 
+            "classifier_file": "crf_model.pkl", 
+            "class": "rasa_nlu.extractors.crf_entity_extractor.CRFEntityExtractor", 
+            "max_iterations": 50
         }, 
         {
             "name": "ner_spacy", 
@@ -32,16 +69,12 @@
                 100
             ], 
             "name": "intent_classifier_sklearn", 
-            "scoring_function": "f1_weighted", 
             "max_cross_validation_folds": 5, 
             "classifier_file": "intent_classifier_sklearn.pkl", 
-            "class": "rasa_nlu.classifiers.sklearn_intent_classifier.SklearnIntentClassifier", 
-            "gamma": [
-                0.1
-            ]
+            "class": "rasa_nlu.classifiers.sklearn_intent_classifier.SklearnIntentClassifier"
         }
     ], 
-    "rasa_nlu_version": "0.14.4", 
+    "rasa_nlu_version": "0.12.3", 
     "training_data": "training_data.json", 
     "language": "en"
 }

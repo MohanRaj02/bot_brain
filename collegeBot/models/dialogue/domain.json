@@ -3,11 +3,16 @@
     "intent_greet", 
     "intent_goodbye", 
     "intent_mood_great", 
+    "intent_fees", 
+    "entity_fees_structure", 
+    "slot_fees_structure_0", 
     "prev_action_listen", 
     "prev_action_restart", 
     "prev_utter_greet", 
-    "prev_utter_goodbye", 
     "prev_utter_mood_great", 
-    "prev_utter_unclear"
+    "prev_utter_goodbye", 
+    "prev_utter_unclear", 
+    "prev_utter_ask_year", 
+    "prev_action_fees"
   ]
 }

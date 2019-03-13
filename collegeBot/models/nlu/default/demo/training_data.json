@@ -144,10 +144,77 @@
       {
         "text": "extremely good", 
         "intent": "mood_great"
+      }, 
+      {
+        "text": "what is my college fees?", 
+        "intent": "fees"
+      }, 
+      {
+        "text": "what is my tution fees?", 
+        "intent": "fees"
+      }, 
+      {
+        "text": "can you please tell My college fees?", 
+        "intent": "fees"
+      }, 
+      {
+        "text": "My tution fees", 
+        "intent": "fees"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 0, 
+            "end": 5, 
+            "value": "first", 
+            "entity": "fees_structure"
+          }
+        ], 
+        "intent": "fees", 
+        "text": "first year"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 0, 
+            "end": 6, 
+            "value": "second", 
+            "entity": "fees_structure"
+          }
+        ], 
+        "intent": "fees", 
+        "text": "second year"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 0, 
+            "end": 5, 
+            "value": "third", 
+            "entity": "fees_structure"
+          }
+        ], 
+        "intent": "fees", 
+        "text": "third year"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 0, 
+            "end": 6, 
+            "value": "fourth", 
+            "entity": "fees_structure"
+          }
+        ], 
+        "intent": "fees", 
+        "text": "fourth year"
+      }, 
+      {
+        "text": "can you tell my semester fees", 
+        "intent": "fees"
       }
     ], 
     "entity_synonyms": [], 
-    "regex_features": [], 
-    "lookup_tables": []
+    "regex_features": []
   }
 }
